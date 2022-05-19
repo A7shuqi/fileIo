@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zk/Exersice/fileIo/build",
+  "command": "/usr/bin/g++   -I/home/zk/Exersice/fileIo/fileio  -g   -o CMakeFiles/fileIo.dir/main.cpp.o -c /home/zk/Exersice/fileIo/main.cpp",
+  "file": "/home/zk/Exersice/fileIo/main.cpp"
+},
+{
+  "directory": "/home/zk/Exersice/fileIo/build",
+  "command": "/usr/bin/g++   -I/home/zk/Exersice/fileIo/fileio  -g   -o CMakeFiles/fileIo.dir/fileio.cpp.o -c /home/zk/Exersice/fileIo/fileio.cpp",
+  "file": "/home/zk/Exersice/fileIo/fileio.cpp"
+}
+]

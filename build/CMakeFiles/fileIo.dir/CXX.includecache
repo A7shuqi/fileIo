@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zk/Exersice/fileIo/file/fileio.h
+
+/home/zk/Exersice/fileIo/fileio.cpp
+file/fileio.h
+/home/zk/Exersice/fileIo/file/fileio.h
+fcntl.h
+-
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+
+/home/zk/Exersice/fileIo/main.cpp
+iostream
+-
+file/fileio.h
+/home/zk/Exersice/fileIo/file/fileio.h
+
